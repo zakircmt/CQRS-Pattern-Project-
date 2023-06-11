@@ -1,0 +1,15 @@
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\bin\Debug\net5.0\CQRS.Database.deps.json
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\bin\Debug\net5.0\CQRS.Database.runtimeconfig.json
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\bin\Debug\net5.0\CQRS.Database.runtimeconfig.dev.json
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\bin\Debug\net5.0\CQRS.Database.dll
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\bin\Debug\net5.0\ref\CQRS.Database.dll
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\bin\Debug\net5.0\CQRS.Database.pdb
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\obj\Debug\net5.0\CQRS.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\obj\Debug\net5.0\CQRS.Database.AssemblyInfoInputs.cache
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\obj\Debug\net5.0\CQRS.Database.AssemblyInfo.cs
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\obj\Debug\net5.0\CQRS.Database.csproj.CoreCompileInputs.cache
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\obj\Debug\net5.0\CQRS.Database.dll
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\obj\Debug\net5.0\ref\CQRS.Database.dll
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\obj\Debug\net5.0\CQRS.Database.pdb
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\obj\Debug\net5.0\CQRS.Database.genruntimeconfig.cache
+C:\Users\Zakir\source\repos\CQRSPatternExample\CQRS.Database\obj\Debug\net5.0\CQRS.Database.csproj.AssemblyReference.cache
